@@ -5,50 +5,44 @@
 	<parent>
 		<groupId>com.eastict.cloud</groupId>
 		<artifactId>cloud-01parent</artifactId>
-		<version>1.0-SNAPSHOT</version>
+		<version>1.0.0-SNAPSHOT</version>
 		<relativePath>../cloud-01parent/pom.xml</relativePath>
 	</parent>
-	<artifactId>cloud-04flexservice</artifactId>
-	<name>调用微服务的微服务</name>
-	<description>仅供参考使用，不作为模板的一部分</description>
+	<artifactId>cloud-04configserver-8888</artifactId>
+	<name>Michaelxu</name>
+	<description>my config</description>
 	<dependencies>
+		<!-- Spring Cloud Config配置中心依赖 -->
 		<dependency>
-			<groupId>com.eastict.cloud</groupId>
-			<artifactId>cloud-02common</artifactId>
-			<version>${project.version}</version>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-config-server</artifactId>
 		</dependency>
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
-		<!-- Spring Cloud Config 客户端依赖 -->
-		<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-config</artifactId>
-		</dependency>
-
-		<!-- Ribbon 相关依赖,eureka会自动引入Ribbon -->
+		<!-- 导入Eureka客户端的依赖，将配置服务提供者 注册进 Eureka -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
 		</dependency>
-
-		<!--feign 依赖 -->
 		<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-openfeign</artifactId>
+			<groupId>com.sun.xml.bind</groupId>
+			<artifactId>jaxb-impl</artifactId>
+			<version>2.3.0</version>
 		</dependency>
-
-		<!--swagger2 依赖 -->
 		<dependency>
-			<groupId>io.springfox</groupId>
-			<artifactId>springfox-swagger2</artifactId>
-			</dependency>
+			<groupId>com.sun.xml.bind</groupId>
+			<artifactId>jaxb-core</artifactId>
+			<version>2.3.0</version>
+		</dependency>
 		<dependency>
-			<groupId>io.springfox</groupId>
-			<artifactId>springfox-swagger-ui</artifactId>
-			</dependency>
+			<groupId>javax.activation</groupId>
+			<artifactId>activation</artifactId>
+			<version>1.1.1</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<plugins>

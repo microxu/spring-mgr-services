@@ -8,18 +8,21 @@
 		<version>1.0-SNAPSHOT</version>
 		<relativePath>../cloud-01parent/pom.xml</relativePath>
 	</parent>
-	<artifactId>cloud-04flexservice</artifactId>
-	<name>调用微服务的微服务</name>
-	<description>仅供参考使用，不作为模板的一部分</description>
+	<artifactId>cloud-03simpleservice-8001</artifactId>
+	<name>内部微服务模板</name>
+	<description>内部服务指不与前端UI或浏览器交互的服务</description>
+
 	<dependencies>
 		<dependency>
 			<groupId>com.eastict.cloud</groupId>
 			<artifactId>cloud-02common</artifactId>
 			<version>${project.version}</version>
 		</dependency>
+
+		<!--监控依赖 -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
 		</dependency>
 
 		<!-- Spring Cloud Config 客户端依赖 -->
@@ -28,28 +31,48 @@
 			<artifactId>spring-cloud-starter-config</artifactId>
 		</dependency>
 
-		<!-- Ribbon 相关依赖,eureka会自动引入Ribbon -->
+		<!-- 导入hystrix依赖 -->
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-netflix-hystrix</artifactId>
+		</dependency>
+
+		<!-- 导入Eureka客户端的依赖，将 微服务提供者 注册进 Eureka -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
 		</dependency>
 
-		<!--feign 依赖 -->
+		<!--springboot web启动器 -->
 		<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-openfeign</artifactId>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
-		<!--swagger2 依赖 -->
+		<!-- mybatis 启动器 -->
 		<dependency>
-			<groupId>io.springfox</groupId>
-			<artifactId>springfox-swagger2</artifactId>
-			</dependency>
+			<groupId>org.mybatis.spring.boot</groupId>
+			<artifactId>mybatis-spring-boot-starter</artifactId>
+		</dependency>
 		<dependency>
-			<groupId>io.springfox</groupId>
-			<artifactId>springfox-swagger-ui</artifactId>
-			</dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.alibaba</groupId>
+			<artifactId>druid</artifactId>
+		</dependency>
 	</dependencies>
+
 	<build>
 		<plugins>
 			<plugin>
