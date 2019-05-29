@@ -1,0 +1,759 @@
+2019-03-27 02:11:37,658 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-27 02:12:31,314 [Worker-7: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.eastict.cloud:cloud-01parent:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-01parent\pom.xml.
+2019-03-27 02:12:33,579 [Worker-7: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-02common\pom.xml.
+2019-03-27 02:12:33,751 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:33,755 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:33,756 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:33,760 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:33,760 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:34,568 [Worker-7: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-03simpleservice-8001:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-03simpleservice-8001\pom.xml.
+2019-03-27 02:12:35,349 [Worker-7: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:12:35,713 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:35,713 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:35,714 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 02:12:35,729 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:35,729 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:36,235 [Worker-7: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04flexservice:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-04flexservice-8003\pom.xml.
+2019-03-27 02:12:36,826 [Worker-7: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:12:37,293 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:37,294 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:37,294 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-27 02:12:37,299 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:37,300 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:37,939 [Worker-7: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04eureka-8002:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-05eureka-8002\pom.xml.
+2019-03-27 02:12:38,551 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:38,552 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:12:38,563 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:38,565 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:38,565 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:39,013 [Worker-7: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-06hytrixdashboard-9001:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-06hytrixdashboard-9001\pom.xml.
+2019-03-27 02:12:39,441 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:39,441 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:12:39,442 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:39,444 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:39,444 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:39,828 [Worker-7: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-06zuulgateway-8080:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-07zuulgateway-8080\pom.xml.
+2019-03-27 02:12:40,495 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:40,496 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:12:40,497 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:12:40,499 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:40,500 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:40,910 [Worker-7: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04configserver-8888:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-08configserver-8888\pom.xml.
+2019-03-27 02:12:41,662 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:41,662 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:12:41,663 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:41,665 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:41,665 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:43,302 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:43,305 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:43,305 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:43,309 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:43,309 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:44,200 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:12:44,328 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:44,329 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:44,330 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 02:12:44,337 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:44,338 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:45,090 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:12:45,187 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:45,188 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:45,188 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-27 02:12:45,192 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:45,192 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:45,884 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:45,885 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:12:45,886 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:45,888 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:45,888 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:46,451 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:46,452 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:12:46,452 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:46,454 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:46,454 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:46,975 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:46,976 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:12:46,977 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:12:46,980 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:46,980 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:47,525 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:47,525 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:12:47,526 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:12:47,527 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:12:47,528 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:09,979 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:09,979 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:09,979 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:09,981 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:09,981 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:10,704 [Worker-0: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:14:10,782 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:10,782 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:10,782 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:10,784 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:10,784 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:11,295 [Worker-0: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:14:11,340 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:11,340 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:11,340 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:11,341 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:11,341 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:11,840 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:11,840 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:11,840 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:11,841 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:11,841 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:12,271 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:12,271 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:12,271 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:12,274 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:12,274 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:12,670 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:12,670 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:12,670 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:12,672 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:12,672 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:13,030 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:13,031 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:13,031 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:13,032 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:13,032 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:26,726 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-27 02:14:27,672 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.eastict.cloud:cloud-01parent:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-01parent\pom.xml.
+2019-03-27 02:14:27,992 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-02common\pom.xml.
+2019-03-27 02:14:28,132 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-03simpleservice-8001:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-03simpleservice-8001\pom.xml.
+2019-03-27 02:14:28,527 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:14:28,707 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04flexservice:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-04flexservice-8003\pom.xml.
+2019-03-27 02:14:28,743 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:14:28,946 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04eureka-8002:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-05eureka-8002\pom.xml.
+2019-03-27 02:14:29,134 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-06hytrixdashboard-9001:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-06hytrixdashboard-9001\pom.xml.
+2019-03-27 02:14:29,275 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-06zuulgateway-8080:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-07zuulgateway-8080\pom.xml.
+2019-03-27 02:14:29,498 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04configserver-8888:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-08configserver-8888\pom.xml.
+2019-03-27 02:14:30,161 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-02common/src/main/java
+2019-03-27 02:14:30,161 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-02common/src/main/resources
+2019-03-27 02:14:30,161 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-02common/src/main/resources
+2019-03-27 02:14:30,162 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-02common/src/test/java
+2019-03-27 02:14:30,162 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-02common/src/test/resources
+2019-03-27 02:14:30,181 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-03simpleservice-8001/src/main/java
+2019-03-27 02:14:30,182 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-03simpleservice-8001/src/main/resources
+2019-03-27 02:14:30,182 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-03simpleservice-8001/src/main/resources
+2019-03-27 02:14:30,182 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-03simpleservice-8001/src/test/java
+2019-03-27 02:14:30,182 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-03simpleservice-8001/src/test/resources
+2019-03-27 02:14:30,429 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-04flexservice-8003/src/main/java
+2019-03-27 02:14:30,429 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-04flexservice-8003/src/main/resources
+2019-03-27 02:14:30,429 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-04flexservice-8003/src/main/resources
+2019-03-27 02:14:30,430 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-04flexservice-8003/src/test/java
+2019-03-27 02:14:30,430 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-04flexservice-8003/src/test/resources
+2019-03-27 02:14:30,546 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-05eureka-8002/src/main/java
+2019-03-27 02:14:30,547 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-05eureka-8002/src/main/resources
+2019-03-27 02:14:30,547 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-05eureka-8002/src/main/resources
+2019-03-27 02:14:30,547 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-05eureka-8002/src/test/java
+2019-03-27 02:14:30,547 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-05eureka-8002/src/test/resources
+2019-03-27 02:14:30,654 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-06hytrixdashboard-9001/src/main/java
+2019-03-27 02:14:30,654 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-06hytrixdashboard-9001/src/main/resources
+2019-03-27 02:14:30,655 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-06hytrixdashboard-9001/src/main/resources
+2019-03-27 02:14:30,655 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-06hytrixdashboard-9001/src/test/java
+2019-03-27 02:14:30,655 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-06hytrixdashboard-9001/src/test/resources
+2019-03-27 02:14:30,758 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-07zuulgateway-8080/src/main/java
+2019-03-27 02:14:30,758 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/main/resources
+2019-03-27 02:14:30,758 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/main/resources
+2019-03-27 02:14:30,758 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-07zuulgateway-8080/src/test/java
+2019-03-27 02:14:30,758 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/test/resources
+2019-03-27 02:14:30,883 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-08configserver-8888/src/main/java
+2019-03-27 02:14:30,883 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-08configserver-8888/src/main/resources
+2019-03-27 02:14:30,884 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-08configserver-8888/src/main/resources
+2019-03-27 02:14:30,884 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-08configserver-8888/src/test/java
+2019-03-27 02:14:30,884 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-08configserver-8888/src/test/resources
+2019-03-27 02:14:31,243 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2019-03-27 02:14:31,585 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:31,586 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:31,586 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:31,588 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:31,588 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:32,138 [Worker-15: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:14:32,192 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:32,192 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:32,193 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 02:14:32,202 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:32,202 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:32,645 [Worker-15: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:14:32,700 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:32,700 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:32,700 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-27 02:14:32,703 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:32,704 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:33,121 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:33,121 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:14:33,127 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:33,128 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:33,128 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:33,418 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:33,419 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:14:33,419 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:33,420 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:33,421 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:33,881 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:33,881 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:14:33,882 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:14:33,883 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:33,884 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:34,273 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:34,273 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:14:34,273 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:14:34,274 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:14:34,274 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:20:33,127 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-27 02:33:32,714 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-27 02:33:34,047 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.eastict.cloud:cloud-01parent:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-01parent\pom.xml.
+2019-03-27 02:33:34,500 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-02common\pom.xml.
+2019-03-27 02:33:34,759 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-03simpleservice-8001:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-03simpleservice-8001\pom.xml.
+2019-03-27 02:33:35,342 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:33:35,595 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04flexservice:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-04flexservice-8003\pom.xml.
+2019-03-27 02:33:35,653 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:33:35,928 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04eureka-8002:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-05eureka-8002\pom.xml.
+2019-03-27 02:33:36,146 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-06hytrixdashboard-9001:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-06hytrixdashboard-9001\pom.xml.
+2019-03-27 02:33:36,365 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-06zuulgateway-8080:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-07zuulgateway-8080\pom.xml.
+2019-03-27 02:33:36,577 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04configserver-8888:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-08configserver-8888\pom.xml.
+2019-03-27 02:33:37,371 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-02common/src/main/java
+2019-03-27 02:33:37,371 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-02common/src/main/resources
+2019-03-27 02:33:37,371 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-02common/src/main/resources
+2019-03-27 02:33:37,372 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-02common/src/test/java
+2019-03-27 02:33:37,372 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-02common/src/test/resources
+2019-03-27 02:33:37,389 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-03simpleservice-8001/src/main/java
+2019-03-27 02:33:37,390 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-03simpleservice-8001/src/main/resources
+2019-03-27 02:33:37,390 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-03simpleservice-8001/src/main/resources
+2019-03-27 02:33:37,390 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-03simpleservice-8001/src/test/java
+2019-03-27 02:33:37,391 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-03simpleservice-8001/src/test/resources
+2019-03-27 02:33:37,597 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-04flexservice-8003/src/main/java
+2019-03-27 02:33:37,597 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-04flexservice-8003/src/main/resources
+2019-03-27 02:33:37,598 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-04flexservice-8003/src/main/resources
+2019-03-27 02:33:37,598 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-04flexservice-8003/src/test/java
+2019-03-27 02:33:37,598 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-04flexservice-8003/src/test/resources
+2019-03-27 02:33:37,759 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-05eureka-8002/src/main/java
+2019-03-27 02:33:37,759 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-05eureka-8002/src/main/resources
+2019-03-27 02:33:37,759 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-05eureka-8002/src/main/resources
+2019-03-27 02:33:37,760 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-05eureka-8002/src/test/java
+2019-03-27 02:33:37,760 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-05eureka-8002/src/test/resources
+2019-03-27 02:33:37,882 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-06hytrixdashboard-9001/src/main/java
+2019-03-27 02:33:37,882 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-06hytrixdashboard-9001/src/main/resources
+2019-03-27 02:33:37,882 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-06hytrixdashboard-9001/src/main/resources
+2019-03-27 02:33:37,883 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-06hytrixdashboard-9001/src/test/java
+2019-03-27 02:33:37,883 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-06hytrixdashboard-9001/src/test/resources
+2019-03-27 02:33:37,966 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-07zuulgateway-8080/src/main/java
+2019-03-27 02:33:37,966 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/main/resources
+2019-03-27 02:33:37,966 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/main/resources
+2019-03-27 02:33:37,967 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-07zuulgateway-8080/src/test/java
+2019-03-27 02:33:37,967 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/test/resources
+2019-03-27 02:33:38,065 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-08configserver-8888/src/main/java
+2019-03-27 02:33:38,066 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-08configserver-8888/src/main/resources
+2019-03-27 02:33:38,066 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-08configserver-8888/src/main/resources
+2019-03-27 02:33:38,066 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-08configserver-8888/src/test/java
+2019-03-27 02:33:38,066 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-08configserver-8888/src/test/resources
+2019-03-27 02:33:38,468 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2019-03-27 02:33:38,901 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:33:38,906 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:33:38,906 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:33:38,909 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:33:38,909 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:33:39,580 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:33:39,637 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:33:39,638 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:33:39,638 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 02:33:39,649 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:33:39,650 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:33:40,358 [Worker-18: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:33:40,405 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:33:40,405 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:33:40,405 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-27 02:33:40,407 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:33:40,408 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:33:40,967 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:33:40,967 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:33:40,975 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:33:40,977 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:33:40,978 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:33:41,442 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:33:41,442 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:33:41,443 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:33:41,444 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:33:41,445 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:33:41,982 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:33:41,982 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:33:41,983 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:33:41,986 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:33:41,986 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:33:42,619 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:33:42,619 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:33:42,620 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:33:42,621 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:33:42,622 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:34:42,265 [Worker-8: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04eureka-8002:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-05eureka-8002\pom.xml.
+2019-03-27 02:34:43,785 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.0.7.RELEASE/spring-boot-starter-security-2.0.7.RELEASE.pom
+2019-03-27 02:34:44,128 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.0.7.RELEASE/spring-boot-starter-security-2.0.7.RELEASE.pom
+2019-03-27 02:34:44,295 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.0.10.RELEASE/spring-security-config-5.0.10.RELEASE.pom
+2019-03-27 02:34:44,611 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.0.10.RELEASE/spring-security-config-5.0.10.RELEASE.pom
+2019-03-27 02:34:44,772 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.0.10.RELEASE/spring-security-core-5.0.10.RELEASE.pom
+2019-03-27 02:34:44,934 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.0.10.RELEASE/spring-security-core-5.0.10.RELEASE.pom
+2019-03-27 02:34:45,094 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.0.10.RELEASE/spring-security-web-5.0.10.RELEASE.pom
+2019-03-27 02:34:45,268 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.0.10.RELEASE/spring-security-web-5.0.10.RELEASE.pom
+2019-03-27 02:34:45,510 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.0.7.RELEASE/spring-boot-starter-security-2.0.7.RELEASE.jar
+2019-03-27 02:34:45,670 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.0.7.RELEASE/spring-boot-starter-security-2.0.7.RELEASE.jar
+2019-03-27 02:34:45,827 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.0.10.RELEASE/spring-security-config-5.0.10.RELEASE.jar
+2019-03-27 02:34:47,003 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.0.10.RELEASE/spring-security-config-5.0.10.RELEASE.jar
+2019-03-27 02:34:47,168 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.0.10.RELEASE/spring-security-core-5.0.10.RELEASE.jar
+2019-03-27 02:34:47,923 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.0.10.RELEASE/spring-security-core-5.0.10.RELEASE.jar
+2019-03-27 02:34:48,136 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.0.10.RELEASE/spring-security-web-5.0.10.RELEASE.jar
+2019-03-27 02:34:48,745 [Worker-8: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.0.10.RELEASE/spring-security-web-5.0.10.RELEASE.jar
+2019-03-27 02:34:48,957 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:34:48,958 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:34:48,958 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:34:48,961 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:34:48,961 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:34:50,461 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:34:50,462 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:34:50,463 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:34:50,464 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:34:50,464 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:34:51,138 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.0.7.RELEASE/spring-boot-starter-security-2.0.7.RELEASE-sources.jar
+2019-03-27 02:34:51,493 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.0.7.RELEASE/spring-boot-starter-security-2.0.7.RELEASE-sources.jar
+2019-03-27 02:34:51,509 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-security:2.0.7.RELEASE
+2019-03-27 02:34:51,676 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.0.10.RELEASE/spring-security-config-5.0.10.RELEASE-sources.jar
+2019-03-27 02:34:52,917 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.0.10.RELEASE/spring-security-config-5.0.10.RELEASE-sources.jar
+2019-03-27 02:34:52,931 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:5.0.10.RELEASE
+2019-03-27 02:34:53,105 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.0.10.RELEASE/spring-security-core-5.0.10.RELEASE-sources.jar
+2019-03-27 02:34:53,523 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.0.10.RELEASE/spring-security-core-5.0.10.RELEASE-sources.jar
+2019-03-27 02:34:53,554 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:5.0.10.RELEASE
+2019-03-27 02:34:53,731 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.0.10.RELEASE/spring-security-web-5.0.10.RELEASE-sources.jar
+2019-03-27 02:34:54,137 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.0.10.RELEASE/spring-security-web-5.0.10.RELEASE-sources.jar
+2019-03-27 02:34:54,148 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:5.0.10.RELEASE
+2019-03-27 02:34:54,586 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:34:54,586 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:34:54,586 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:34:54,587 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:34:54,588 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:34:58,978 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-27 02:34:59,907 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.eastict.cloud:cloud-01parent:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-01parent\pom.xml.
+2019-03-27 02:35:00,222 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-02common\pom.xml.
+2019-03-27 02:35:00,445 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-03simpleservice-8001:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-03simpleservice-8001\pom.xml.
+2019-03-27 02:35:00,853 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:35:01,079 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04flexservice:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-04flexservice-8003\pom.xml.
+2019-03-27 02:35:01,140 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:35:01,303 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04eureka-8002:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-05eureka-8002\pom.xml.
+2019-03-27 02:35:01,541 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-06hytrixdashboard-9001:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-06hytrixdashboard-9001\pom.xml.
+2019-03-27 02:35:01,712 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-06zuulgateway-8080:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-07zuulgateway-8080\pom.xml.
+2019-03-27 02:35:01,893 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04configserver-8888:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-08configserver-8888\pom.xml.
+2019-03-27 02:35:02,655 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-02common/src/main/java
+2019-03-27 02:35:02,655 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-02common/src/main/resources
+2019-03-27 02:35:02,655 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-02common/src/main/resources
+2019-03-27 02:35:02,655 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-02common/src/test/java
+2019-03-27 02:35:02,655 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-02common/src/test/resources
+2019-03-27 02:35:02,667 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-03simpleservice-8001/src/main/java
+2019-03-27 02:35:02,667 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-03simpleservice-8001/src/main/resources
+2019-03-27 02:35:02,667 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-03simpleservice-8001/src/main/resources
+2019-03-27 02:35:02,668 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-03simpleservice-8001/src/test/java
+2019-03-27 02:35:02,668 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-03simpleservice-8001/src/test/resources
+2019-03-27 02:35:02,815 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-04flexservice-8003/src/main/java
+2019-03-27 02:35:02,816 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-04flexservice-8003/src/main/resources
+2019-03-27 02:35:02,816 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-04flexservice-8003/src/main/resources
+2019-03-27 02:35:02,816 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-04flexservice-8003/src/test/java
+2019-03-27 02:35:02,816 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-04flexservice-8003/src/test/resources
+2019-03-27 02:35:02,916 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-05eureka-8002/src/main/java
+2019-03-27 02:35:02,916 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-05eureka-8002/src/main/resources
+2019-03-27 02:35:02,916 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-05eureka-8002/src/main/resources
+2019-03-27 02:35:02,916 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-05eureka-8002/src/test/java
+2019-03-27 02:35:02,916 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-05eureka-8002/src/test/resources
+2019-03-27 02:35:03,016 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-06hytrixdashboard-9001/src/main/java
+2019-03-27 02:35:03,016 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-06hytrixdashboard-9001/src/main/resources
+2019-03-27 02:35:03,016 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-06hytrixdashboard-9001/src/main/resources
+2019-03-27 02:35:03,017 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-06hytrixdashboard-9001/src/test/java
+2019-03-27 02:35:03,017 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-06hytrixdashboard-9001/src/test/resources
+2019-03-27 02:35:03,075 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-07zuulgateway-8080/src/main/java
+2019-03-27 02:35:03,075 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/main/resources
+2019-03-27 02:35:03,075 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/main/resources
+2019-03-27 02:35:03,075 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-07zuulgateway-8080/src/test/java
+2019-03-27 02:35:03,075 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/test/resources
+2019-03-27 02:35:03,166 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-08configserver-8888/src/main/java
+2019-03-27 02:35:03,166 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-08configserver-8888/src/main/resources
+2019-03-27 02:35:03,166 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-08configserver-8888/src/main/resources
+2019-03-27 02:35:03,167 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-08configserver-8888/src/test/java
+2019-03-27 02:35:03,167 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-08configserver-8888/src/test/resources
+2019-03-27 02:35:03,519 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2019-03-27 02:35:03,853 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:35:03,854 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:35:03,854 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:35:03,856 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:35:03,856 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:35:04,398 [Worker-4: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:35:04,452 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:35:04,452 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:35:04,452 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 02:35:04,461 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:35:04,461 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:35:04,912 [Worker-4: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:35:04,956 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:35:04,956 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:35:04,956 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-27 02:35:04,958 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:35:04,959 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:35:05,435 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:35:05,435 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:35:05,442 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:35:05,443 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:35:05,444 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:35:05,793 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:35:05,793 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:35:05,793 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:35:05,794 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:35:05,794 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:35:06,215 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:35:06,215 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:35:06,215 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:35:06,217 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:35:06,217 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:35:06,628 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:35:06,628 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:35:06,629 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:35:06,630 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:35:06,630 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:37:21,800 [Worker-7: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04eureka-8002:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-05eureka-8002\pom.xml.
+2019-03-27 02:37:22,163 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:37:22,164 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:37:22,164 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:37:22,167 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:37:22,167 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:37:23,719 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:37:23,719 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:37:23,720 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:37:23,720 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:37:23,720 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:46:35,232 [Worker-16: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:46:40,359 [Worker-17: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier null to /cloud-02common/target/classes
+2019-03-27 02:46:40,660 [Worker-17: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier null to /cloud-02common/target/classes
+2019-03-27 02:46:40,905 [Worker-17: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier null to /cloud-02common/target/classes
+2019-03-27 02:49:10,363 [Worker-10: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-03simpleservice-8001:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-03simpleservice-8001\pom.xml.
+2019-03-27 02:49:10,730 [Worker-10: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:49:10,924 [Worker-10: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:49:10,924 [Worker-10: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:49:10,924 [Worker-10: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:49:10,926 [Worker-10: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:49:10,926 [Worker-10: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:49:11,424 [Worker-10: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:49:11,488 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:49:11,489 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:49:11,489 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 02:49:11,494 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:49:11,494 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:49:11,569 [Worker-10: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier null to /cloud-02common/target/classes
+2019-03-27 02:49:12,006 [Worker-10: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier null to /cloud-02common/target/classes
+2019-03-27 02:49:12,307 [Worker-10: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier null to /cloud-02common/target/classes
+2019-03-27 02:50:55,842 [Worker-18: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier null to /cloud-02common/target/classes
+2019-03-27 02:50:56,116 [Worker-18: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier null to /cloud-02common/target/classes
+2019-03-27 02:50:56,377 [Worker-18: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier null to /cloud-02common/target/classes
+2019-03-27 02:51:21,465 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-27 02:51:21,714 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-03simpleservice-8001:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-03simpleservice-8001\pom.xml.
+2019-03-27 02:51:22,046 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:51:22,221 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-03simpleservice-8001/src/main/java
+2019-03-27 02:51:22,221 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-03simpleservice-8001/src/main/resources
+2019-03-27 02:51:22,221 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-03simpleservice-8001/src/main/resources
+2019-03-27 02:51:22,221 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-03simpleservice-8001/src/test/java
+2019-03-27 02:51:22,221 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-03simpleservice-8001/src/test/resources
+2019-03-27 02:51:22,401 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-27 02:51:23,090 [Worker-3: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 02:51:23,150 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:51:23,151 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:51:23,151 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-27 02:51:23,154 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:51:23,155 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:51:30,586 [Worker-20: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier null to /cloud-02common/target/classes
+2019-03-27 02:51:30,843 [Worker-20: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier null to /cloud-02common/target/classes
+2019-03-27 02:51:31,111 [Worker-20: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier null to /cloud-02common/target/classes
+2019-03-27 02:55:16,463 [Worker-15: Launching cloud-08configserver-8888 - ConfigServer] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04configserver-8888:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-08configserver-8888\pom.xml.
+2019-03-27 02:55:16,816 [Worker-15: Launching cloud-08configserver-8888 - ConfigServer] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:55:16,817 [Worker-15: Launching cloud-08configserver-8888 - ConfigServer] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:55:16,817 [Worker-15: Launching cloud-08configserver-8888 - ConfigServer] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:55:16,818 [Worker-15: Launching cloud-08configserver-8888 - ConfigServer] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:55:16,818 [Worker-15: Launching cloud-08configserver-8888 - ConfigServer] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:55:17,312 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:55:17,312 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 02:55:17,313 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:55:17,314 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 02:55:17,314 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 02:56:39,817 [Worker-14: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier null to /cloud-02common/target/classes
+2019-03-27 02:56:40,078 [Worker-14: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier null to /cloud-02common/target/classes
+2019-03-27 02:56:40,324 [Worker-14: Launching cloud-03simpleservice-8001 - SimpleService8001] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier null to /cloud-02common/target/classes
+2019-03-27 03:45:33,310 [Worker-20: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-06zuulgateway-8080:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-07zuulgateway-8080\pom.xml.
+2019-03-27 03:45:33,755 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 03:45:33,756 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 03:45:33,756 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 03:45:33,757 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 03:45:33,757 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 03:45:35,066 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 03:45:35,066 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 03:45:35,067 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 03:45:35,071 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 03:45:35,072 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 03:48:26,649 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 03:48:26,650 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 03:48:26,651 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 03:48:26,652 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 03:48:26,652 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 03:59:17,288 [Worker-19: Launching cloud-07zuulgateway-8080 - ZuulGateway] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 03:59:17,289 [Worker-19: Launching cloud-07zuulgateway-8080 - ZuulGateway] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 03:59:17,290 [Worker-19: Launching cloud-07zuulgateway-8080 - ZuulGateway] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 03:59:17,291 [Worker-19: Launching cloud-07zuulgateway-8080 - ZuulGateway] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 03:59:17,292 [Worker-19: Launching cloud-07zuulgateway-8080 - ZuulGateway] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:09:02,847 [Worker-23: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-06zuulgateway-8080:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-07zuulgateway-8080\pom.xml.
+2019-03-27 04:09:39,049 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-27 04:09:39,297 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-06zuulgateway-8080:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-07zuulgateway-8080\pom.xml.
+2019-03-27 04:09:39,594 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-07zuulgateway-8080/src/main/java
+2019-03-27 04:09:39,595 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/main/resources
+2019-03-27 04:09:39,595 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/main/resources
+2019-03-27 04:09:39,595 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-07zuulgateway-8080/src/test/java
+2019-03-27 04:09:39,595 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/test/resources
+2019-03-27 04:09:39,748 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-27 04:16:38,783 [Worker-3: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.eastict.cloud:cloud-01parent:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-01parent\pom.xml.
+2019-03-27 04:16:39,095 [Worker-3: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-06hytrixdashboard-9001:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-06hytrixdashboard-9001\pom.xml.
+2019-03-27 04:16:39,448 [Worker-3: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04flexservice:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-04flexservice-8003\pom.xml.
+2019-03-27 04:16:39,600 [Worker-3: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 04:16:39,830 [Worker-3: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-02common\pom.xml.
+2019-03-27 04:16:39,992 [Worker-3: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04eureka-8002:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-05eureka-8002\pom.xml.
+2019-03-27 04:16:40,191 [Worker-3: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-03simpleservice-8001:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-03simpleservice-8001\pom.xml.
+2019-03-27 04:16:40,289 [Worker-3: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 04:16:40,485 [Worker-3: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04configserver-8888:1.0.0-SNAPSHOT @ D:\spring-mgr\cloud-08configserver-8888\pom.xml.
+2019-03-27 04:16:40,709 [Worker-3: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.boot:cloud-06zuulgateway-8080:1.4.3.RELEASE @ D:\spring-mgr\cloud-07zuulgateway-8080\pom.xml.
+2019-03-27 04:16:41,821 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:16:41,823 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:41,823 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:41,825 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:16:41,825 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:42,336 [Worker-3: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 04:16:42,397 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:16:42,397 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:42,397 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:42,398 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:16:42,398 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:42,861 [Worker-3: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-27 04:16:42,913 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:16:42,913 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:42,913 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:42,914 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:16:42,914 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:43,568 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:16:43,568 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:43,568 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:43,570 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:16:43,570 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:44,326 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:16:44,326 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:44,327 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:44,327 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:16:44,327 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:44,482 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:16:44,483 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 04:16:44,494 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 04:16:44,498 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:16:44,498 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:45,056 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:16:45,057 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:45,057 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:16:45,057 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:16:45,057 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:20:49,895 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-27 04:20:50,165 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.boot:cloud-06zuulgateway-8080:1.4.3.RELEASE @ D:\spring-mgr\cloud-07zuulgateway-8080\pom.xml.
+2019-03-27 04:20:50,559 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-07zuulgateway-8080/src/main/java
+2019-03-27 04:20:50,559 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/main/resources
+2019-03-27 04:20:50,559 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/main/resources
+2019-03-27 04:20:50,559 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-07zuulgateway-8080/src/test/java
+2019-03-27 04:20:50,559 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/test/resources
+2019-03-27 04:20:50,885 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-27 04:20:51,432 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:20:51,432 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 04:20:51,441 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 04:20:51,443 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:20:51,443 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:23:32,498 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:23:32,499 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 04:23:32,500 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 04:23:32,501 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:23:32,501 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:38:28,670 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:38:28,670 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 04:38:28,671 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 04:38:28,672 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:38:28,672 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:38:35,458 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-27 04:38:35,732 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.boot:cloud-06zuulgateway-8080:1.4.3.RELEASE @ D:\spring-mgr\cloud-07zuulgateway-8080\pom.xml.
+2019-03-27 04:38:36,151 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-07zuulgateway-8080/src/main/java
+2019-03-27 04:38:36,151 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/main/resources
+2019-03-27 04:38:36,151 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/main/resources
+2019-03-27 04:38:36,151 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-07zuulgateway-8080/src/test/java
+2019-03-27 04:38:36,151 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/test/resources
+2019-03-27 04:38:36,437 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-27 04:38:36,951 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:38:36,952 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 04:38:36,960 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 04:38:36,962 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:38:36,963 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:39:57,950 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:39:57,951 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 04:39:57,952 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 04:39:57,953 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:39:57,953 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 04:40:13,622 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-27 04:40:13,960 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.boot:cloud-06zuulgateway-8080:1.4.3.RELEASE @ D:\spring-mgr\cloud-07zuulgateway-8080\pom.xml.
+2019-03-27 04:40:14,355 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-07zuulgateway-8080/src/main/java
+2019-03-27 04:40:14,355 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/main/resources
+2019-03-27 04:40:14,355 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/main/resources
+2019-03-27 04:40:14,355 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cloud-07zuulgateway-8080/src/test/java
+2019-03-27 04:40:14,355 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cloud-07zuulgateway-8080/src/test/resources
+2019-03-27 04:40:14,638 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-27 04:40:15,128 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:40:15,128 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 04:40:15,136 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 04:40:15,138 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 04:40:15,138 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 13:37:06,161 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-30 11:34:04,019 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-30 11:54:42,146 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-30 11:54:42,150 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-30 11:54:42,151 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-30 11:54:42,152 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-30 11:54:42,153 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-30 11:54:52,635 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-30 11:54:52,766 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-30 11:54:52,766 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-30 11:54:52,767 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-03-30 11:54:52,796 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-30 11:54:52,796 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-30 11:54:54,481 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-03-30 11:54:54,526 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-30 11:54:54,526 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-30 11:54:54,527 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-30 11:54:54,537 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-30 11:54:54,538 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-30 11:54:56,605 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-30 11:54:56,605 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-30 11:54:56,616 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-30 11:54:56,618 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-30 11:54:56,618 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-30 11:54:57,658 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-30 11:54:57,658 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-30 11:54:57,663 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-30 11:54:57,665 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-30 11:54:57,665 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-30 11:55:02,682 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-30 11:55:02,682 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-30 11:55:02,702 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-30 11:55:02,710 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-30 11:55:02,711 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-30 11:55:04,375 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-30 11:55:04,375 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-30 11:55:04,381 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-30 11:55:04,383 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-30 11:55:04,383 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-30 12:22:04,138 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-04-30 14:51:59,370 [Worker-4: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-04-30 19:10:39,946 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-30 19:13:31,775 [Worker-0: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-05-01 15:27:56,018 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-01 15:55:15,050 [Worker-4: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-05-01 19:37:47,274 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 19:37:47,278 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-01 19:37:47,279 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-01 19:37:47,282 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 19:37:47,282 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-01 19:37:47,779 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 19:37:47,779 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-01 19:37:47,780 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-05-01 19:37:47,807 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 19:37:47,807 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-01 19:37:48,801 [Worker-19: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-05-01 19:37:48,853 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 19:37:48,853 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-01 19:37:48,854 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-01 19:37:48,863 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 19:37:48,863 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-01 19:37:49,516 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 19:37:49,516 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-01 19:37:49,529 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-01 19:37:49,531 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 19:37:49,531 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-01 19:37:50,079 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 19:37:50,080 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-01 19:37:50,084 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-01 19:37:50,085 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 19:37:50,085 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-01 19:37:52,671 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 19:37:52,671 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-01 19:37:52,685 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-01 19:37:52,687 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 19:37:52,688 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-01 19:37:53,278 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 19:37:53,278 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-01 19:37:53,284 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-01 19:37:53,286 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-01 19:37:53,286 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:25:33,691 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-29 16:26:11,246 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:26:11,262 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:26:11,262 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:26:11,262 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:26:11,262 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:26:13,011 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-05-29 16:26:13,168 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:26:13,168 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:26:13,168 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-05-29 16:26:13,199 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:26:13,199 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:26:14,105 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-05-29 16:26:14,167 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:26:14,167 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:26:14,167 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-05-29 16:26:14,183 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:26:14,183 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:26:14,933 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:26:14,933 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-29 16:26:14,948 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:26:14,948 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:26:14,948 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:26:15,511 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:26:15,511 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-29 16:26:15,511 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:26:15,526 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:26:15,526 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:26:18,057 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:26:18,057 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-29 16:26:18,073 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-29 16:26:18,073 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:26:18,073 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:26:18,588 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:26:18,588 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-29 16:26:18,588 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:26:18,588 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:26:18,588 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:27:20,786 [Worker-17: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-05-29 16:27:32,002 [Worker-13: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT @ D:\JaveTest\spring-mgr\cloud-02common\pom.xml.
+2019-05-29 16:27:32,205 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:27:32,205 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:27:32,205 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:27:32,205 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:27:32,205 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:27:32,580 [Worker-13: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-03simpleservice-8001:1.0.0-SNAPSHOT @ D:\JaveTest\spring-mgr\cloud-03simpleservice-8001\pom.xml.
+2019-05-29 16:27:33,018 [Worker-13: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-05-29 16:27:33,440 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:27:33,440 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:27:33,440 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:27:33,440 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:27:33,440 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:27:33,752 [Worker-13: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eastict.cloud:cloud-04configserver-8888:1.0.0-SNAPSHOT @ D:\JaveTest\spring-mgr\cloud-08configserver-8888\pom.xml.
+2019-05-29 16:27:34,299 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:27:34,299 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:27:34,299 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:27:34,314 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:27:34,314 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:27:35,330 [Worker-2: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/cloud-02common: com.eastict.cloud:cloud-02common:1.0.0-SNAPSHOT with classifier  to /cloud-02common/target/classes
+2019-05-29 16:37:19,150 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:37:19,150 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-29 16:37:19,150 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-29 16:37:19,166 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-29 16:37:19,166 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

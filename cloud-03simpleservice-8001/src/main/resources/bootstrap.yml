@@ -1,0 +1,17 @@
+spring:
+  cloud:
+    config:
+      name: simpleservice #github上的配置名称，注意没有yml后缀名
+      profile: dev   # 本次访问的环境配置项
+      label: master   # 远程库的分支名
+      #uri: http://localhost:8888 #Config配置中心地址，通过它获取simpleservice.yml配置信息
+      discovery:
+        enabled: true
+        service-id: cloud-configservice
+eureka:
+  client:
+    registerWithEureka: true # 服务注册开关
+    fetchRegistry: true # 服务发现开关
+    serviceUrl: # 注册到哪一个Eureka Server服务注册中心，多个中间用逗号分隔
+      defaultZone: http://localhost:8002/eureka
+      #defaultZone: http://localhost:8002/eureka,http://eureka6002.com:6002/eureka
